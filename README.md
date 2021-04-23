@@ -5,13 +5,7 @@ This Project is for adding Image (Stickers, Emojis) and drawings over other imag
 # Demo
 <img src="assets/image-overlay-edit.gif" width="340" height="720" />
 
-## Getting Started
-
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Used Packages
+- [Flutter Colorpicker](https://pub.dev/packages/flutter_colorpicker)
+- [Painter](https://pub.dev/packages/painter)
+- [ImageUtil](https://github.com/eishon/image-util)
