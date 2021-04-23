@@ -3,7 +3,7 @@
 This Project is for adding Image (Stickers, Emojis) and drawings over other images.
 
 # Demo
-<img src="assets/image-overlay-edit.gif" width="360" height="720" / >
+<img src="assets/image-overlay-edit.gif" width="360" height="720" />
 
 ## Getting Started
 
