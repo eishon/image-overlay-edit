@@ -1,6 +1,9 @@
 # image_overlay_edit
 
-A new Flutter package project.
+This Project is for adding Image (Stickers, Emojis) and drawings over other images.
+
+# Demo
+<img src="assets/image-overlay-edit.gif" >
 
 ## Getting Started
 
